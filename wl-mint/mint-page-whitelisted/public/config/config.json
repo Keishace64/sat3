@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6f3f6c02f9cc4abb0451ab70583d0bbb271f20ac",
+  "SCAN_LINK": "https://testnets.opensea.io/collection/wardrobe-collection-club-zero",
+  "NETWORK": {
+    "NAME": "Ethereum (Rinkeby)",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Wardrobe Collection Club Zero",
+  "SYMBOL": "WCCZ",
+  "MAX_SUPPLY": 2000,
+  "WEI_COST": 60000000000000000,
+  "DISPLAY_COST": 0.06,
+  "GAS_LIMIT": 2850000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/wardrobe-collection-club-zero",
+  "SHOW_BACKGROUND": true
+}
